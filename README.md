@@ -1,5 +1,5 @@
 
-# Weather Application
+# Weather CLI
 
 A command-line weather application that fetches real-time weather data, 5-day/3-hour forecast, historical weather data, air pollution levels, and weather alerts using the OpenWeatherMap API. This application is built with **Node.js** and utilizes various external libraries to enhance the functionality and user experience.
 

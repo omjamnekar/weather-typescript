@@ -95,7 +95,3 @@ The program will return the weather information in a table format, such as:
 - [chalk](https://www.npmjs.com/package/chalk) - Terminal string styling
 - [cli-table3](https://www.npmjs.com/package/cli-table3) - Create and display tables in the terminal
 - [readline-sync](https://www.npmjs.com/package/readline-sync) - Simple synchronous readline interface for Node.js
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
